@@ -1,4 +1,4 @@
-# Image-to-Text-to-Audio
+# Image To Text To Audio
 ## 📝 Project Overview
 This program demonstrates a simple pipeline that extracts text from an image and converts it into speech. It uses Tesseract OCR to recognize text from the image and Google Text-to-Speech (gTTS) to generate audio from the extracted text.
 
